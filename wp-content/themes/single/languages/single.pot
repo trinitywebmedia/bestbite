@@ -1,0 +1,830 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Single Genesis Child Theme\n"
+"POT-Creation-Date: 2014-07-22 14:33+0800\n"
+"PO-Revision-Date: 2014-07-22 14:33+0800\n"
+"Last-Translator: joemar aparecio <floroxmar@gmail.com>\n"
+"Language-Team: zigzagpress <joe@zigzagpress.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: D:\\ZIGZAGPRESS THEMES\\ZIGZAGPRESS THEMES "
+"(Uploaded)\\Theme Versions\\single\\v1.3\\single_theme_package_v1_3\\single\n"
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\single\v1.3\single_theme_package_v1_3\single/functions.php:54
+msgid "Primary Navigation Menu"
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\single\v1.3\single_theme_package_v1_3\single/functions.php:217
+msgid "Read More &rarr; "
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\single\v1.3\single_theme_package_v1_3\single/functions.php:243
+#: Versions\single\v1.3\single_theme_package_v1_3\single/functions.php:244
+#: Versions\single\v1.3\single_theme_package_v1_3\single/functions.php:245
+#: Versions\single\v1.3\single_theme_package_v1_3\single/functions.php:246
+#: Versions\single\v1.3\single_theme_package_v1_3\single/functions.php:247
+#: Versions\single\v1.3\single_theme_package_v1_3\single/functions.php:248
+#: Versions\single\v1.3\single_theme_package_v1_3\single/functions.php:249
+#: Versions\single\v1.3\single_theme_package_v1_3\single/functions.php:265
+#: Versions\single\v1.3\single_theme_package_v1_3\single/functions.php:275
+#: Versions\single\v1.3\single_theme_package_v1_3\single/functions.php:280
+#: Versions\single\v1.3\single_theme_package_v1_3\single/functions.php:286
+msgid "Archives for "
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\single\v1.3\single_theme_package_v1_3\single/functions.php:250
+msgid "404 "
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\single\v1.3\single_theme_package_v1_3\single/functions.php:269
+msgid "You searched for "
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\single\v1.3\single_theme_package_v1_3\single/functions.php:352
+msgid " &uarr; Top of Page"
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\single\v1.3\single_theme_package_v1_3\single/functions.php:404
+#: Versions\single\v1.3\single_theme_package_v1_3\single/functions.php:412
+#: Versions\single\v1.3\single_theme_package_v1_3\single/functions.php:419
+#: Versions\single\v1.3\single_theme_package_v1_3\single/functions.php:426
+msgid "This is a homepage widget area."
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\single\v1.3\single_theme_package_v1_3\single/functions.php:433
+msgid "This is a bottom widget beside site credits."
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\single\v1.3\single_theme_package_v1_3\single/include/cpt/zp_cpt.php:28
+msgid "Video Type"
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\single\v1.3\single_theme_package_v1_3\single/include/cpt/zp_cpt.php:28
+msgid "Select appropriate video type"
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\single\v1.3\single_theme_package_v1_3\single/include/cpt/zp_cpt.php:29
+msgid "Video ID"
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\single\v1.3\single_theme_package_v1_3\single/include/cpt/zp_cpt.php:29
+msgid "Enter video ID. Example: VdvEdMMtNMY"
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\single\v1.3\single_theme_package_v1_3\single/include/cpt/zp_cpt.php:30
+msgid "Video height"
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\single\v1.3\single_theme_package_v1_3\single/include/cpt/zp_cpt.php:30
+msgid "Enter video height in px. Example: 300"
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\single\v1.3\single_theme_package_v1_3\single/include/cpt/zp_cpt.php:31
+msgid "Slide Link"
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\single\v1.3\single_theme_package_v1_3\single/include/cpt/zp_cpt.php:31
+msgid "Put slide link if needed"
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\single\v1.3\single_theme_package_v1_3\single/include/cpt/zp_cpt.php:39
+msgid "Define slide order. Ex. 1,2,3,4,..."
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\single\v1.3\single_theme_package_v1_3\single/include/cpt/zp_cpt.php:47
+#: Versions\single\v1.3\single_theme_package_v1_3\single/include/cpt/zp_cpt.php:143
+msgid "Title"
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\single\v1.3\single_theme_package_v1_3\single/include/cpt/zp_cpt.php:48
+msgid "Slideshow"
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\single\v1.3\single_theme_package_v1_3\single/include/cpt/zp_cpt.php:49
+msgid "Slide Order"
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\single\v1.3\single_theme_package_v1_3\single/include/cpt/zp_cpt.php:50
+#: Versions\single\v1.3\single_theme_package_v1_3\single/include/cpt/zp_cpt.php:146
+msgid "Date"
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\single\v1.3\single_theme_package_v1_3\single/include/cpt/zp_cpt.php:62
+#: Versions\single\v1.3\single_theme_package_v1_3\single/include/cpt/zp_cpt.php:158
+msgid "Unable to get author(s)"
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\single\v1.3\single_theme_package_v1_3\single/include/cpt/zp_cpt.php:96
+msgid "Include Portfolio MetaItem"
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\single\v1.3\single_theme_package_v1_3\single/include/cpt/zp_cpt.php:96
+msgid "Select True to include meta on portfolio single page."
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\single\v1.3\single_theme_package_v1_3\single/include/cpt/zp_cpt.php:97
+#: Versions\single\v1.3\single_theme_package_v1_3\single/include/cpt/zp_cpt.php:101
+msgid "Client Label"
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\single\v1.3\single_theme_package_v1_3\single/include/cpt/zp_cpt.php:97
+msgid "Define client label"
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\single\v1.3\single_theme_package_v1_3\single/include/cpt/zp_cpt.php:98
+msgid "Client Value"
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\single\v1.3\single_theme_package_v1_3\single/include/cpt/zp_cpt.php:98
+msgid "Define client Value"
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\single\v1.3\single_theme_package_v1_3\single/include/cpt/zp_cpt.php:100
+msgid "Date Label"
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\single\v1.3\single_theme_package_v1_3\single/include/cpt/zp_cpt.php:100
+#: Versions\single\v1.3\single_theme_package_v1_3\single/include/cpt/zp_cpt.php:101
+msgid "Define date label"
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\single\v1.3\single_theme_package_v1_3\single/include/cpt/zp_cpt.php:103
+msgid "Category Label"
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\single\v1.3\single_theme_package_v1_3\single/include/cpt/zp_cpt.php:103
+msgid "Define category label"
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\single\v1.3\single_theme_package_v1_3\single/include/cpt/zp_cpt.php:104
+msgid "Category Value"
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\single\v1.3\single_theme_package_v1_3\single/include/cpt/zp_cpt.php:104
+msgid "Define category value"
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\single\v1.3\single_theme_package_v1_3\single/include/cpt/zp_cpt.php:106
+msgid "Visit Project Label"
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\single\v1.3\single_theme_package_v1_3\single/include/cpt/zp_cpt.php:106
+msgid "Define project label"
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\single\v1.3\single_theme_package_v1_3\single/include/cpt/zp_cpt.php:107
+msgid "Visit Project Link"
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\single\v1.3\single_theme_package_v1_3\single/include/cpt/zp_cpt.php:107
+msgid "Define project link"
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\single\v1.3\single_theme_package_v1_3\single/include/cpt/zp_cpt.php:118
+msgid "Image 1"
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\single\v1.3\single_theme_package_v1_3\single/include/cpt/zp_cpt.php:118
+#: Versions\single\v1.3\single_theme_package_v1_3\single/include/cpt/zp_cpt.php:119
+#: Versions\single\v1.3\single_theme_package_v1_3\single/include/cpt/zp_cpt.php:120
+#: Versions\single\v1.3\single_theme_package_v1_3\single/include/cpt/zp_cpt.php:121
+#: Versions\single\v1.3\single_theme_package_v1_3\single/include/cpt/zp_cpt.php:122
+msgid "Place here the full image path"
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\single\v1.3\single_theme_package_v1_3\single/include/cpt/zp_cpt.php:119
+msgid "Image 2"
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\single\v1.3\single_theme_package_v1_3\single/include/cpt/zp_cpt.php:120
+msgid "Image 3"
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\single\v1.3\single_theme_package_v1_3\single/include/cpt/zp_cpt.php:121
+msgid "Image 4"
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\single\v1.3\single_theme_package_v1_3\single/include/cpt/zp_cpt.php:122
+msgid "Image 5"
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\single\v1.3\single_theme_package_v1_3\single/include/cpt/zp_cpt.php:131
+msgid "Youtube or Vimeo URL"
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\single\v1.3\single_theme_package_v1_3\single/include/cpt/zp_cpt.php:131
+msgid ""
+"Place here the video url. Example video url: YOUTUBE: http://www.youtube.com/"
+"watch?v=Sv5iEK-IEzw and VIMEO: http://vimeo.com/7585127"
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\single\v1.3\single_theme_package_v1_3\single/include/cpt/zp_cpt.php:132
+msgid "Embed Code"
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\single\v1.3\single_theme_package_v1_3\single/include/cpt/zp_cpt.php:132
+msgid ""
+"If you are using anything else other than YouTube or Vimeo, paste the embed "
+"code here. This field will override anything from the above."
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\single\v1.3\single_theme_package_v1_3\single/include/cpt/zp_cpt.php:133
+msgid "Video Height"
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\single\v1.3\single_theme_package_v1_3\single/include/cpt/zp_cpt.php:133
+msgid "Please input your video height. Example: 300"
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\single\v1.3\single_theme_package_v1_3\single/include/cpt/zp_cpt.php:144
+msgid "Portfolio Category"
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\single\v1.3\single_theme_package_v1_3\single/include/cpt/zp_cpt.php:145
+msgid "Author"
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\single\v1.3\single_theme_package_v1_3\single/include/cpt/zp_cpt.php:176
+msgid "Number of Columns"
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\single\v1.3\single_theme_package_v1_3\single/include/cpt/zp_cpt.php:176
+msgid ""
+"Choose the portfolio page columns. Applies to Portfolio filter/gallery "
+"template"
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\single\v1.3\single_theme_package_v1_3\single/include/theme_functions.php:24
+msgid "Show All"
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\single\v1.3\single_theme_package_v1_3\single/include/theme_functions.php:83
+msgid ""
+"Sorry that seems to be an invalid <strong>YouTube</strong> URL. Please check "
+"it again."
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\single\v1.3\single_theme_package_v1_3\single/include/theme_functions.php:89
+msgid ""
+"Sorry that seems to be an invalid <strong>Vimeo</strong> URL. Please check "
+"it again. Make sure there is a string of numbers at the end."
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\single\v1.3\single_theme_package_v1_3\single/include/theme_functions.php:92
+msgid "Sorry that is an invalid YouTube or Vimeo URL."
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\single\v1.3\single_theme_package_v1_3\single/include/theme_functions.php:476
+msgid "By "
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\single\v1.3\single_theme_package_v1_3\single/include/theme_functions.php:481
+msgid "Filed Under: "
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\single\v1.3\single_theme_package_v1_3\single/include/theme_functions.php:587
+msgid "No Comments"
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\single\v1.3\single_theme_package_v1_3\single/include/theme_functions.php:589
+msgid " Comments"
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\single\v1.3\single_theme_package_v1_3\single/include/theme_functions.php:591
+msgid "1 Comment"
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\single\v1.3\single_theme_package_v1_3\single/include/theme_settings.php:21
+msgid "This is the welcome message section"
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\single\v1.3\single_theme_package_v1_3\single/include/theme_settings.php:25
+msgid "Latest Portfolio"
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\single\v1.3\single_theme_package_v1_3\single/include/theme_settings.php:29
+msgid "Latest Blog"
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\single\v1.3\single_theme_package_v1_3\single/include/theme_settings.php:30
+msgid "This is a blog description."
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\single\v1.3\single_theme_package_v1_3\single/include/theme_settings.php:142
+msgid "Settings reset."
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\single\v1.3\single_theme_package_v1_3\single/include/theme_settings.php:144
+msgid "Settings saved."
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\single\v1.3\single_theme_package_v1_3\single/include/theme_settings.php:195
+msgid "Home Welcome Message"
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\single\v1.3\single_theme_package_v1_3\single/include/theme_settings.php:196
+msgid "Section Settings"
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\single\v1.3\single_theme_package_v1_3\single/include/theme_settings.php:197
+msgid "Home Portfolio Settings"
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\single\v1.3\single_theme_package_v1_3\single/include/theme_settings.php:198
+msgid "Home Blog Settings"
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\single\v1.3\single_theme_package_v1_3\single/include/theme_settings.php:199
+msgid "Slideshow Settings"
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\single\v1.3\single_theme_package_v1_3\single/include/theme_settings.php:200
+msgid "Appearance Settings"
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\single\v1.3\single_theme_package_v1_3\single/include/theme_settings.php:201
+msgid "Footer Settings"
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\single\v1.3\single_theme_package_v1_3\single/include/theme_settings.php:213
+msgid "Check to enable welcome message."
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\single\v1.3\single_theme_package_v1_3\single/include/theme_settings.php:213
+msgid "Welcome Message"
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\single\v1.3\single_theme_package_v1_3\single/include/theme_settings.php:217
+msgid "Portfolio Section "
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\single\v1.3\single_theme_package_v1_3\single/include/theme_settings.php:219
+#: Versions\single\v1.3\single_theme_package_v1_3\single/include/theme_settings.php:229
+#: Versions\single\v1.3\single_theme_package_v1_3\single/include/theme_settings.php:241
+#: Versions\single\v1.3\single_theme_package_v1_3\single/include/theme_settings.php:253
+msgid "Upload Section Background."
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\single\v1.3\single_theme_package_v1_3\single/include/theme_settings.php:220
+#: Versions\single\v1.3\single_theme_package_v1_3\single/include/theme_settings.php:232
+#: Versions\single\v1.3\single_theme_package_v1_3\single/include/theme_settings.php:244
+#: Versions\single\v1.3\single_theme_package_v1_3\single/include/theme_settings.php:256
+msgid "Upload Background"
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\single\v1.3\single_theme_package_v1_3\single/include/theme_settings.php:225
+msgid "Services Section "
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\single\v1.3\single_theme_package_v1_3\single/include/theme_settings.php:237
+msgid "Testimonial Section "
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\single\v1.3\single_theme_package_v1_3\single/include/theme_settings.php:249
+msgid "Footer Section "
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\single\v1.3\single_theme_package_v1_3\single/include/theme_settings.php:270
+msgid "Check to enable Portfolio on the home page."
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\single\v1.3\single_theme_package_v1_3\single/include/theme_settings.php:275
+msgid "Home Portfolio Title"
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\single\v1.3\single_theme_package_v1_3\single/include/theme_settings.php:281
+msgid "Portfolio Columns:"
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\single\v1.3\single_theme_package_v1_3\single/include/theme_settings.php:290
+msgid "This settings applies to the home page portfolio section."
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\single\v1.3\single_theme_package_v1_3\single/include/theme_settings.php:299
+msgid "Check to enable homepage latest blog section.."
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\single\v1.3\single_theme_package_v1_3\single/include/theme_settings.php:304
+msgid "Latest Blog Title"
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\single\v1.3\single_theme_package_v1_3\single/include/theme_settings.php:310
+msgid "Number of Latest Blog"
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\single\v1.3\single_theme_package_v1_3\single/include/theme_settings.php:316
+msgid "Select Blog Category"
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\single\v1.3\single_theme_package_v1_3\single/include/theme_settings.php:320
+msgid "Default"
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\single\v1.3\single_theme_package_v1_3\single/include/theme_settings.php:339
+msgid "Home Blog Columns:"
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\single\v1.3\single_theme_package_v1_3\single/include/theme_settings.php:348
+msgid "This settings applies to the home page blog section."
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\single\v1.3\single_theme_package_v1_3\single/include/theme_settings.php:356
+msgid "Enable slider in inner pages?!"
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\single\v1.3\single_theme_package_v1_3\single/include/theme_settings.php:362
+msgid "Check to enable slider."
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\single\v1.3\single_theme_package_v1_3\single/include/theme_settings.php:367
+msgid "Select HomePage Slideshow"
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\single\v1.3\single_theme_package_v1_3\single/include/theme_settings.php:387
+msgid "Select Innerpage Slideshow"
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\single\v1.3\single_theme_package_v1_3\single/include/theme_settings.php:407
+msgid "Slider Height (in pixel)"
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\single\v1.3\single_theme_package_v1_3\single/include/theme_settings.php:413
+msgid "Select slider animation:"
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\single\v1.3\single_theme_package_v1_3\single/include/theme_settings.php:422
+msgid "Set the speed of slideshow cycling in milliseconds."
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\single\v1.3\single_theme_package_v1_3\single/include/theme_settings.php:428
+msgid "Set the speed of animation in milliseconds."
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\single\v1.3\single_theme_package_v1_3\single/include/theme_settings.php:434
+msgid "Control Navigation."
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\single\v1.3\single_theme_package_v1_3\single/include/theme_settings.php:443
+msgid "Direction Navigation."
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\single\v1.3\single_theme_package_v1_3\single/include/theme_settings.php:452
+msgid "Pause on Action."
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\single\v1.3\single_theme_package_v1_3\single/include/theme_settings.php:461
+msgid "Pause on Hover."
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\single\v1.3\single_theme_package_v1_3\single/include/theme_settings.php:472
+msgid "Select color scheme."
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\single\v1.3\single_theme_package_v1_3\single/include/theme_settings.php:490
+msgid "Custom CSS Code."
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\single\v1.3\single_theme_package_v1_3\single/include/theme_settings.php:497
+msgid "Upload Custom Logo."
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\single\v1.3\single_theme_package_v1_3\single/include/theme_settings.php:500
+msgid "Upload Logo"
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\single\v1.3\single_theme_package_v1_3\single/include/theme_settings.php:505
+msgid "Custom Logo Height in pixel. e.g. 200"
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\single\v1.3\single_theme_package_v1_3\single/include/theme_settings.php:511
+msgid "Custom Logo Width in pixel. e.g. 200"
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\single\v1.3\single_theme_package_v1_3\single/include/theme_settings.php:517
+msgid "Upload Custom Favicon."
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\single\v1.3\single_theme_package_v1_3\single/include/theme_settings.php:520
+msgid "Upload Favicon"
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\single\v1.3\single_theme_package_v1_3\single/include/theme_settings.php:524
+msgid "This is the appearance settings."
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\single\v1.3\single_theme_package_v1_3\single/include/theme_settings.php:530
+msgid "Footer Text"
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\single\v1.3\single_theme_package_v1_3\single/include/theme_settings.php:535
+msgid "Enter your site copyright here."
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\single\v1.3\single_theme_package_v1_3\single/include/theme_settings.php:549
+msgid "Insert Image!"
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\single\v1.3\single_theme_package_v1_3\single/include/theme_settings.php:606
+msgid "Single Settings"
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\single\v1.3\single_theme_package_v1_3\single/include/theme_settings.php:607
+#: Versions\single\v1.3\single_theme_package_v1_3\single/include/theme_settings.php:616
+msgid "Save Settings"
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\single\v1.3\single_theme_package_v1_3\single/include/theme_settings.php:608
+#: Versions\single\v1.3\single_theme_package_v1_3\single/include/theme_settings.php:617
+msgid "Reset Settings"
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\single\v1.3\single_theme_package_v1_3\single/include/theme_settings.php:608
+#: Versions\single\v1.3\single_theme_package_v1_3\single/include/theme_settings.php:617
+msgid "Are you sure you want to reset?"
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\single\v1.3\single_theme_package_v1_3\single/include/widgets/widget-address.php:29
+msgid "A widget that addresss your contact information."
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\single\v1.3\single_theme_package_v1_3\single/include/widgets/widget-address.php:32
+msgid "ZP Contact Widget"
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\single\v1.3\single_theme_package_v1_3\single/include/widgets/widget-address.php:113
+#: Versions\single\v1.3\single_theme_package_v1_3\single/include/widgets/widget-flickr.php:109
+#: Versions\single\v1.3\single_theme_package_v1_3\single/include/widgets/widget-social_icons.php:200
+msgid "Title:"
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\single\v1.3\single_theme_package_v1_3\single/include/widgets/widget-address.php:116
+msgid "Telephone:"
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\single\v1.3\single_theme_package_v1_3\single/include/widgets/widget-address.php:117
+msgid "Fax:"
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\single\v1.3\single_theme_package_v1_3\single/include/widgets/widget-address.php:118
+msgid "Email:"
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\single\v1.3\single_theme_package_v1_3\single/include/widgets/widget-address.php:119
+msgid "Address:"
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\single\v1.3\single_theme_package_v1_3\single/include/widgets/widget-address.php:120
+msgid "Twitter:"
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\single\v1.3\single_theme_package_v1_3\single/include/widgets/widget-flickr.php:26
+msgid "A widget that displays your Flickr photos."
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\single\v1.3\single_theme_package_v1_3\single/include/widgets/widget-flickr.php:29
+msgid "Flickr Photos"
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\single\v1.3\single_theme_package_v1_3\single/include/widgets/widget-flickr.php:115
+msgid "Flickr ID:"
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\single\v1.3\single_theme_package_v1_3\single/include/widgets/widget-flickr.php:121
+msgid "Number of Photos:"
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\single\v1.3\single_theme_package_v1_3\single/include/widgets/widget-flickr.php:131
+msgid "Type ( user or group ):"
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\single\v1.3\single_theme_package_v1_3\single/include/widgets/widget-flickr.php:140
+msgid "Display ( random or latest ):"
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\single\v1.3\single_theme_package_v1_3\single/include/widgets/widget-social_icons.php:84
+msgid "Dribble URI"
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\single\v1.3\single_theme_package_v1_3\single/include/widgets/widget-social_icons.php:91
+msgid "Behance URI"
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\single\v1.3\single_theme_package_v1_3\single/include/widgets/widget-social_icons.php:98
+msgid "Facebook URI"
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\single\v1.3\single_theme_package_v1_3\single/include/widgets/widget-social_icons.php:106
+msgid "Google+ URI"
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\single\v1.3\single_theme_package_v1_3\single/include/widgets/widget-social_icons.php:113
+msgid "Linkedin URI"
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\single\v1.3\single_theme_package_v1_3\single/include/widgets/widget-social_icons.php:120
+msgid "DeviantART URI"
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\single\v1.3\single_theme_package_v1_3\single/include/widgets/widget-social_icons.php:127
+msgid "Twitter URI"
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\single\v1.3\single_theme_package_v1_3\single/include/widgets/widget-social_icons.php:134
+msgid "Vimeo URI"
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\single\v1.3\single_theme_package_v1_3\single/include/widgets/widget-social_icons.php:141
+msgid "Pinterest URI"
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\single\v1.3\single_theme_package_v1_3\single/include/widgets/widget-social_icons.php:148
+msgid "Flickr URI"
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\single\v1.3\single_theme_package_v1_3\single/include/widgets/widget-social_icons.php:155
+msgid "Tumblr URI"
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\single\v1.3\single_theme_package_v1_3\single/include/widgets/widget-social_icons.php:162
+msgid "YouTube URI"
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\single\v1.3\single_theme_package_v1_3\single/include/widgets/widget-social_icons.php:172
+msgid "Displays select social icons."
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\single\v1.3\single_theme_package_v1_3\single/include/widgets/widget-social_icons.php:181
+msgid "ZP Social Icons"
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\single\v1.3\single_theme_package_v1_3\single/include/widgets/widget-social_icons.php:202
+msgid "Alignment"
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\single\v1.3\single_theme_package_v1_3\single/include/widgets/widget-social_icons.php:202
+msgid "Align Left"
+msgstr ""
+
+#: D:\ZIGZAGPRESS THEMES\ZIGZAGPRESS THEMES (Uploaded)\Theme
+#: Versions\single\v1.3\single_theme_package_v1_3\single/include/widgets/widget-social_icons.php:202
+msgid "Align Right"
+msgstr ""

@@ -1,0 +1,644 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Single Genesis Child Theme\n"
+"POT-Creation-Date: 2013-08-09 16:54+0800\n"
+"PO-Revision-Date: 2013-08-09 16:54+0800\n"
+"Last-Translator: joemar aparecio <floroxmar@gmail.com>\n"
+"Language-Team: zigzagpress <squat600@gmail.com>\n"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: C:\\wamp\\www\\demo\\wp-content\\themes\\single\n"
+
+#: C:\wamp\www\demo\wp-content\themes\single/404.php:33
+msgid ""
+"You're looking for a page that does not exist! Please try the navigations "
+"above.."
+msgstr ""
+
+#: C:\wamp\www\demo\wp-content\themes\single/functions.php:121
+msgid "Primary Navigation Menu"
+msgstr ""
+
+#: C:\wamp\www\demo\wp-content\themes\single/functions.php:467
+msgid "Read More &rarr; "
+msgstr ""
+
+#: C:\wamp\www\demo\wp-content\themes\single/functions.php:790
+msgid " &uarr; Top of Page"
+msgstr ""
+
+#: C:\wamp\www\demo\wp-content\themes\single/functions.php:889
+#: C:\wamp\www\demo\wp-content\themes\single/functions.php:905
+#: C:\wamp\www\demo\wp-content\themes\single/functions.php:921
+#: C:\wamp\www\demo\wp-content\themes\single/functions.php:937
+msgid "This is a homepage widget area."
+msgstr ""
+
+#: C:\wamp\www\demo\wp-content\themes\single/functions.php:953
+msgid "This is a bottom widget beside site credits."
+msgstr ""
+
+#: C:\wamp\www\demo\wp-content\themes\single/include/theme_functions.php:185
+msgid ""
+"Sorry that seems to be an invalid <strong>YouTube</strong> URL. Please check "
+"it again."
+msgstr ""
+
+#: C:\wamp\www\demo\wp-content\themes\single/include/theme_functions.php:209
+msgid ""
+"Sorry that seems to be an invalid <strong>Vimeo</strong> URL. Please check "
+"it again. Make sure there is a string of numbers at the end."
+msgstr ""
+
+#: C:\wamp\www\demo\wp-content\themes\single/include/theme_functions.php:221
+msgid "Sorry that is an invalid YouTube or Vimeo URL."
+msgstr ""
+
+#: C:\wamp\www\demo\wp-content\themes\single/include/theme_functions.php:998
+msgid "By "
+msgstr ""
+
+#: C:\wamp\www\demo\wp-content\themes\single/include/theme_functions.php:1004
+msgid "Filed Under: "
+msgstr ""
+
+#: C:\wamp\www\demo\wp-content\themes\single/include/theme_functions.php:1250
+msgid "No Comments"
+msgstr ""
+
+#: C:\wamp\www\demo\wp-content\themes\single/include/theme_functions.php:1254
+msgid " Comments"
+msgstr ""
+
+#: C:\wamp\www\demo\wp-content\themes\single/include/theme_functions.php:1258
+msgid "1 Comment"
+msgstr ""
+
+#: C:\wamp\www\demo\wp-content\themes\single/include/theme_settings.php:23
+msgid "This is the welcome message section"
+msgstr ""
+
+#: C:\wamp\www\demo\wp-content\themes\single/include/theme_settings.php:27
+msgid "Latest Portfolio"
+msgstr ""
+
+#: C:\wamp\www\demo\wp-content\themes\single/include/theme_settings.php:31
+msgid "Latest Blog"
+msgstr ""
+
+#: C:\wamp\www\demo\wp-content\themes\single/include/theme_settings.php:32
+msgid "This is a blog description."
+msgstr ""
+
+#: C:\wamp\www\demo\wp-content\themes\single/include/theme_settings.php:146
+msgid "Settings reset."
+msgstr ""
+
+#: C:\wamp\www\demo\wp-content\themes\single/include/theme_settings.php:148
+msgid "Settings saved."
+msgstr ""
+
+#: C:\wamp\www\demo\wp-content\themes\single/include/theme_settings.php:210
+msgid "Home Welcome Message"
+msgstr ""
+
+#: C:\wamp\www\demo\wp-content\themes\single/include/theme_settings.php:211
+msgid "Section Settings"
+msgstr ""
+
+#: C:\wamp\www\demo\wp-content\themes\single/include/theme_settings.php:212
+msgid "Home Portfolio Settings"
+msgstr ""
+
+#: C:\wamp\www\demo\wp-content\themes\single/include/theme_settings.php:213
+msgid "Home Blog Settings"
+msgstr ""
+
+#: C:\wamp\www\demo\wp-content\themes\single/include/theme_settings.php:214
+msgid "Slideshow Settings"
+msgstr ""
+
+#: C:\wamp\www\demo\wp-content\themes\single/include/theme_settings.php:215
+msgid "Appearance Settings"
+msgstr ""
+
+#: C:\wamp\www\demo\wp-content\themes\single/include/theme_settings.php:216
+msgid "Footer Settings"
+msgstr ""
+
+#: C:\wamp\www\demo\wp-content\themes\single/include/theme_settings.php:232
+msgid "Check to enable welcome message."
+msgstr ""
+
+#: C:\wamp\www\demo\wp-content\themes\single/include/theme_settings.php:233
+msgid "Welcome Message"
+msgstr ""
+
+#: C:\wamp\www\demo\wp-content\themes\single/include/theme_settings.php:240
+msgid "Portfolio Section "
+msgstr ""
+
+#: C:\wamp\www\demo\wp-content\themes\single/include/theme_settings.php:241
+#: C:\wamp\www\demo\wp-content\themes\single/include/theme_settings.php:252
+#: C:\wamp\www\demo\wp-content\themes\single/include/theme_settings.php:263
+#: C:\wamp\www\demo\wp-content\themes\single/include/theme_settings.php:273
+msgid "Upload Section Background."
+msgstr ""
+
+#: C:\wamp\www\demo\wp-content\themes\single/include/theme_settings.php:243
+#: C:\wamp\www\demo\wp-content\themes\single/include/theme_settings.php:254
+#: C:\wamp\www\demo\wp-content\themes\single/include/theme_settings.php:265
+#: C:\wamp\www\demo\wp-content\themes\single/include/theme_settings.php:275
+msgid "Upload Background"
+msgstr ""
+
+#: C:\wamp\www\demo\wp-content\themes\single/include/theme_settings.php:251
+msgid "Services Section "
+msgstr ""
+
+#: C:\wamp\www\demo\wp-content\themes\single/include/theme_settings.php:262
+msgid "Testimonial Section "
+msgstr ""
+
+#: C:\wamp\www\demo\wp-content\themes\single/include/theme_settings.php:272
+msgid "Footer Section "
+msgstr ""
+
+#: C:\wamp\www\demo\wp-content\themes\single/include/theme_settings.php:287
+msgid "Check to enable Portfolio on the home page."
+msgstr ""
+
+#: C:\wamp\www\demo\wp-content\themes\single/include/theme_settings.php:290
+msgid "Home Portfolio Title"
+msgstr ""
+
+#: C:\wamp\www\demo\wp-content\themes\single/include/theme_settings.php:293
+msgid "Portfolio Columns:"
+msgstr ""
+
+#: C:\wamp\www\demo\wp-content\themes\single/include/theme_settings.php:300
+msgid "This settings applies to the home page portfolio section."
+msgstr ""
+
+#: C:\wamp\www\demo\wp-content\themes\single/include/theme_settings.php:306
+msgid "Check to enable homepage latest blog section.."
+msgstr ""
+
+#: C:\wamp\www\demo\wp-content\themes\single/include/theme_settings.php:308
+msgid "Latest Blog Title"
+msgstr ""
+
+#: C:\wamp\www\demo\wp-content\themes\single/include/theme_settings.php:312
+msgid "Number of Latest Blog"
+msgstr ""
+
+#: C:\wamp\www\demo\wp-content\themes\single/include/theme_settings.php:317
+msgid "Select Blog Category"
+msgstr ""
+
+#: C:\wamp\www\demo\wp-content\themes\single/include/theme_settings.php:319
+msgid "Default"
+msgstr ""
+
+#: C:\wamp\www\demo\wp-content\themes\single/include/theme_settings.php:329
+msgid "Home Blog Columns:"
+msgstr ""
+
+#: C:\wamp\www\demo\wp-content\themes\single/include/theme_settings.php:335
+msgid "This settings applies to the home page blog section."
+msgstr ""
+
+#: C:\wamp\www\demo\wp-content\themes\single/include/theme_settings.php:341
+msgid "Check to enable slider."
+msgstr ""
+
+#: C:\wamp\www\demo\wp-content\themes\single/include/theme_settings.php:343
+msgid "Select HomePage Slideshow"
+msgstr ""
+
+#: C:\wamp\www\demo\wp-content\themes\single/include/theme_settings.php:354
+msgid "Slider Height (in pixel)"
+msgstr ""
+
+#: C:\wamp\www\demo\wp-content\themes\single/include/theme_settings.php:358
+msgid "Select slider animation:"
+msgstr ""
+
+#: C:\wamp\www\demo\wp-content\themes\single/include/theme_settings.php:364
+msgid "Set the speed of slideshow cycling in milliseconds."
+msgstr ""
+
+#: C:\wamp\www\demo\wp-content\themes\single/include/theme_settings.php:367
+msgid "Set the speed of animation in milliseconds."
+msgstr ""
+
+#: C:\wamp\www\demo\wp-content\themes\single/include/theme_settings.php:371
+msgid "Control Navigation."
+msgstr ""
+
+#: C:\wamp\www\demo\wp-content\themes\single/include/theme_settings.php:378
+msgid "Direction Navigation."
+msgstr ""
+
+#: C:\wamp\www\demo\wp-content\themes\single/include/theme_settings.php:385
+msgid "Pause on Action."
+msgstr ""
+
+#: C:\wamp\www\demo\wp-content\themes\single/include/theme_settings.php:393
+msgid "Pause on Hover."
+msgstr ""
+
+#: C:\wamp\www\demo\wp-content\themes\single/include/theme_settings.php:404
+msgid "Select color scheme."
+msgstr ""
+
+#: C:\wamp\www\demo\wp-content\themes\single/include/theme_settings.php:419
+msgid "Custom CSS Code."
+msgstr ""
+
+#: C:\wamp\www\demo\wp-content\themes\single/include/theme_settings.php:424
+msgid "Upload Custom Logo."
+msgstr ""
+
+#: C:\wamp\www\demo\wp-content\themes\single/include/theme_settings.php:426
+msgid "Upload Logo"
+msgstr ""
+
+#: C:\wamp\www\demo\wp-content\themes\single/include/theme_settings.php:431
+msgid "Custom Logo Height in pixel. e.g. 200"
+msgstr ""
+
+#: C:\wamp\www\demo\wp-content\themes\single/include/theme_settings.php:434
+msgid "Custom Logo Width in pixel. e.g. 200"
+msgstr ""
+
+#: C:\wamp\www\demo\wp-content\themes\single/include/theme_settings.php:438
+msgid "Upload Custom Favicon."
+msgstr ""
+
+#: C:\wamp\www\demo\wp-content\themes\single/include/theme_settings.php:440
+msgid "Upload Favicon"
+msgstr ""
+
+#: C:\wamp\www\demo\wp-content\themes\single/include/theme_settings.php:446
+msgid "This is the appearance settings."
+msgstr ""
+
+#: C:\wamp\www\demo\wp-content\themes\single/include/theme_settings.php:451
+msgid "Footer Text"
+msgstr ""
+
+#: C:\wamp\www\demo\wp-content\themes\single/include/theme_settings.php:453
+msgid "Enter your site copyright here."
+msgstr ""
+
+#: C:\wamp\www\demo\wp-content\themes\single/include/theme_settings.php:467
+msgid "Insert Image!"
+msgstr ""
+
+#: C:\wamp\www\demo\wp-content\themes\single/include/theme_settings.php:529
+msgid "Single Child Theme Settings"
+msgstr ""
+
+#: C:\wamp\www\demo\wp-content\themes\single/include/theme_settings.php:530
+msgid "Save Settings"
+msgstr ""
+
+#: C:\wamp\www\demo\wp-content\themes\single/include/theme_settings.php:531
+msgid "Reset Settings"
+msgstr ""
+
+#: C:\wamp\www\demo\wp-content\themes\single/include/theme_settings.php:531
+msgid "Are you sure you want to reset?"
+msgstr ""
+
+#: C:\wamp\www\demo\wp-content\themes\single/include/cpt/zp_cpt.php:28
+msgid "Video Type"
+msgstr ""
+
+#: C:\wamp\www\demo\wp-content\themes\single/include/cpt/zp_cpt.php:28
+msgid "Select appropriate video type"
+msgstr ""
+
+#: C:\wamp\www\demo\wp-content\themes\single/include/cpt/zp_cpt.php:29
+msgid "Video ID"
+msgstr ""
+
+#: C:\wamp\www\demo\wp-content\themes\single/include/cpt/zp_cpt.php:29
+msgid "Enter video ID. Example: VdvEdMMtNMY"
+msgstr ""
+
+#: C:\wamp\www\demo\wp-content\themes\single/include/cpt/zp_cpt.php:30
+msgid "Video height"
+msgstr ""
+
+#: C:\wamp\www\demo\wp-content\themes\single/include/cpt/zp_cpt.php:30
+msgid "Enter video height in px. Example: 300"
+msgstr ""
+
+#: C:\wamp\www\demo\wp-content\themes\single/include/cpt/zp_cpt.php:31
+msgid "Slide Link"
+msgstr ""
+
+#: C:\wamp\www\demo\wp-content\themes\single/include/cpt/zp_cpt.php:31
+msgid "Put slide link if needed"
+msgstr ""
+
+#: C:\wamp\www\demo\wp-content\themes\single/include/cpt/zp_cpt.php:39
+msgid "Define slide order. Ex. 1,2,3,4,..."
+msgstr ""
+
+#: C:\wamp\www\demo\wp-content\themes\single/include/cpt/zp_cpt.php:47
+#: C:\wamp\www\demo\wp-content\themes\single/include/cpt/zp_cpt.php:143
+msgid "Title"
+msgstr ""
+
+#: C:\wamp\www\demo\wp-content\themes\single/include/cpt/zp_cpt.php:48
+msgid "Slideshow"
+msgstr ""
+
+#: C:\wamp\www\demo\wp-content\themes\single/include/cpt/zp_cpt.php:49
+msgid "Slide Order"
+msgstr ""
+
+#: C:\wamp\www\demo\wp-content\themes\single/include/cpt/zp_cpt.php:50
+#: C:\wamp\www\demo\wp-content\themes\single/include/cpt/zp_cpt.php:146
+msgid "Date"
+msgstr ""
+
+#: C:\wamp\www\demo\wp-content\themes\single/include/cpt/zp_cpt.php:62
+#: C:\wamp\www\demo\wp-content\themes\single/include/cpt/zp_cpt.php:158
+msgid "Unable to get author(s)"
+msgstr ""
+
+#: C:\wamp\www\demo\wp-content\themes\single/include/cpt/zp_cpt.php:96
+msgid "Include Portfolio MetaItem"
+msgstr ""
+
+#: C:\wamp\www\demo\wp-content\themes\single/include/cpt/zp_cpt.php:96
+msgid "Select True to include meta on portfolio single page."
+msgstr ""
+
+#: C:\wamp\www\demo\wp-content\themes\single/include/cpt/zp_cpt.php:97
+#: C:\wamp\www\demo\wp-content\themes\single/include/cpt/zp_cpt.php:101
+msgid "Client Label"
+msgstr ""
+
+#: C:\wamp\www\demo\wp-content\themes\single/include/cpt/zp_cpt.php:97
+msgid "Define client label"
+msgstr ""
+
+#: C:\wamp\www\demo\wp-content\themes\single/include/cpt/zp_cpt.php:98
+msgid "Client Value"
+msgstr ""
+
+#: C:\wamp\www\demo\wp-content\themes\single/include/cpt/zp_cpt.php:98
+msgid "Define client Value"
+msgstr ""
+
+#: C:\wamp\www\demo\wp-content\themes\single/include/cpt/zp_cpt.php:100
+msgid "Date Label"
+msgstr ""
+
+#: C:\wamp\www\demo\wp-content\themes\single/include/cpt/zp_cpt.php:100
+#: C:\wamp\www\demo\wp-content\themes\single/include/cpt/zp_cpt.php:101
+msgid "Define date label"
+msgstr ""
+
+#: C:\wamp\www\demo\wp-content\themes\single/include/cpt/zp_cpt.php:103
+msgid "Category Label"
+msgstr ""
+
+#: C:\wamp\www\demo\wp-content\themes\single/include/cpt/zp_cpt.php:103
+msgid "Define category label"
+msgstr ""
+
+#: C:\wamp\www\demo\wp-content\themes\single/include/cpt/zp_cpt.php:104
+msgid "Category Value"
+msgstr ""
+
+#: C:\wamp\www\demo\wp-content\themes\single/include/cpt/zp_cpt.php:104
+msgid "Define category value"
+msgstr ""
+
+#: C:\wamp\www\demo\wp-content\themes\single/include/cpt/zp_cpt.php:106
+msgid "Visit Project Label"
+msgstr ""
+
+#: C:\wamp\www\demo\wp-content\themes\single/include/cpt/zp_cpt.php:106
+msgid "Define project label"
+msgstr ""
+
+#: C:\wamp\www\demo\wp-content\themes\single/include/cpt/zp_cpt.php:107
+msgid "Visit Project Link"
+msgstr ""
+
+#: C:\wamp\www\demo\wp-content\themes\single/include/cpt/zp_cpt.php:107
+msgid "Define project link"
+msgstr ""
+
+#: C:\wamp\www\demo\wp-content\themes\single/include/cpt/zp_cpt.php:118
+msgid "Image 1"
+msgstr ""
+
+#: C:\wamp\www\demo\wp-content\themes\single/include/cpt/zp_cpt.php:118
+#: C:\wamp\www\demo\wp-content\themes\single/include/cpt/zp_cpt.php:119
+#: C:\wamp\www\demo\wp-content\themes\single/include/cpt/zp_cpt.php:120
+#: C:\wamp\www\demo\wp-content\themes\single/include/cpt/zp_cpt.php:121
+#: C:\wamp\www\demo\wp-content\themes\single/include/cpt/zp_cpt.php:122
+msgid "Place here the full image path"
+msgstr ""
+
+#: C:\wamp\www\demo\wp-content\themes\single/include/cpt/zp_cpt.php:119
+msgid "Image 2"
+msgstr ""
+
+#: C:\wamp\www\demo\wp-content\themes\single/include/cpt/zp_cpt.php:120
+msgid "Image 3"
+msgstr ""
+
+#: C:\wamp\www\demo\wp-content\themes\single/include/cpt/zp_cpt.php:121
+msgid "Image 4"
+msgstr ""
+
+#: C:\wamp\www\demo\wp-content\themes\single/include/cpt/zp_cpt.php:122
+msgid "Image 5"
+msgstr ""
+
+#: C:\wamp\www\demo\wp-content\themes\single/include/cpt/zp_cpt.php:131
+msgid "Youtube or Vimeo URL"
+msgstr ""
+
+#: C:\wamp\www\demo\wp-content\themes\single/include/cpt/zp_cpt.php:131
+msgid ""
+"Place here the video url. Example video url: YOUTUBE: http://www.youtube.com/"
+"watch?v=Sv5iEK-IEzw and VIMEO: http://vimeo.com/7585127"
+msgstr ""
+
+#: C:\wamp\www\demo\wp-content\themes\single/include/cpt/zp_cpt.php:132
+msgid "Embed Code"
+msgstr ""
+
+#: C:\wamp\www\demo\wp-content\themes\single/include/cpt/zp_cpt.php:132
+msgid ""
+"If you are using anything else other than YouTube or Vimeo, paste the embed "
+"code here. This field will override anything from the above."
+msgstr ""
+
+#: C:\wamp\www\demo\wp-content\themes\single/include/cpt/zp_cpt.php:133
+msgid "Video Height"
+msgstr ""
+
+#: C:\wamp\www\demo\wp-content\themes\single/include/cpt/zp_cpt.php:133
+msgid "Please input your video height. Example: 300"
+msgstr ""
+
+#: C:\wamp\www\demo\wp-content\themes\single/include/cpt/zp_cpt.php:144
+msgid "Portfolio Category"
+msgstr ""
+
+#: C:\wamp\www\demo\wp-content\themes\single/include/cpt/zp_cpt.php:145
+msgid "Author"
+msgstr ""
+
+#: C:\wamp\www\demo\wp-content\themes\single/include/cpt/zp_cpt.php:176
+msgid "Number of Columns"
+msgstr ""
+
+#: C:\wamp\www\demo\wp-content\themes\single/include/cpt/zp_cpt.php:176
+msgid ""
+"Choose the portfolio page columns. Applies to Portfolio filter/gallery "
+"template"
+msgstr ""
+
+#: C:\wamp\www\demo\wp-content\themes\single/include/widgets/widget-address.php:33
+msgid "A widget that addresss your contact information."
+msgstr ""
+
+#: C:\wamp\www\demo\wp-content\themes\single/include/widgets/widget-address.php:36
+msgid "ZP Contact Widget"
+msgstr ""
+
+#: C:\wamp\www\demo\wp-content\themes\single/include/widgets/widget-address.php:119
+#: C:\wamp\www\demo\wp-content\themes\single/include/widgets/widget-flickr.php:109
+#: C:\wamp\www\demo\wp-content\themes\single/include/widgets/widget-social_icons.php:205
+msgid "Title:"
+msgstr ""
+
+#: C:\wamp\www\demo\wp-content\themes\single/include/widgets/widget-address.php:124
+msgid "Telephone:"
+msgstr ""
+
+#: C:\wamp\www\demo\wp-content\themes\single/include/widgets/widget-address.php:129
+msgid "Fax:"
+msgstr ""
+
+#: C:\wamp\www\demo\wp-content\themes\single/include/widgets/widget-address.php:134
+msgid "Email:"
+msgstr ""
+
+#: C:\wamp\www\demo\wp-content\themes\single/include/widgets/widget-address.php:139
+msgid "Address:"
+msgstr ""
+
+#: C:\wamp\www\demo\wp-content\themes\single/include/widgets/widget-address.php:144
+msgid "Twitter:"
+msgstr ""
+
+#: C:\wamp\www\demo\wp-content\themes\single/include/widgets/widget-flickr.php:26
+msgid "A widget that displays your Flickr photos."
+msgstr ""
+
+#: C:\wamp\www\demo\wp-content\themes\single/include/widgets/widget-flickr.php:29
+msgid "Flickr Photos"
+msgstr ""
+
+#: C:\wamp\www\demo\wp-content\themes\single/include/widgets/widget-flickr.php:115
+msgid "Flickr ID:"
+msgstr ""
+
+#: C:\wamp\www\demo\wp-content\themes\single/include/widgets/widget-flickr.php:121
+msgid "Number of Photos:"
+msgstr ""
+
+#: C:\wamp\www\demo\wp-content\themes\single/include/widgets/widget-flickr.php:131
+msgid "Type ( user or group ):"
+msgstr ""
+
+#: C:\wamp\www\demo\wp-content\themes\single/include/widgets/widget-flickr.php:140
+msgid "Display ( random or latest ):"
+msgstr ""
+
+#: C:\wamp\www\demo\wp-content\themes\single/include/widgets/widget-social_icons.php:85
+msgid "Dribble URI"
+msgstr ""
+
+#: C:\wamp\www\demo\wp-content\themes\single/include/widgets/widget-social_icons.php:93
+msgid "Behance URI"
+msgstr ""
+
+#: C:\wamp\www\demo\wp-content\themes\single/include/widgets/widget-social_icons.php:100
+msgid "Facebook URI"
+msgstr ""
+
+#: C:\wamp\www\demo\wp-content\themes\single/include/widgets/widget-social_icons.php:107
+msgid "Google+ URI"
+msgstr ""
+
+#: C:\wamp\www\demo\wp-content\themes\single/include/widgets/widget-social_icons.php:114
+msgid "Linkedin URI"
+msgstr ""
+
+#: C:\wamp\www\demo\wp-content\themes\single/include/widgets/widget-social_icons.php:121
+msgid "DeviantART URI"
+msgstr ""
+
+#: C:\wamp\www\demo\wp-content\themes\single/include/widgets/widget-social_icons.php:128
+msgid "Twitter URI"
+msgstr ""
+
+#: C:\wamp\www\demo\wp-content\themes\single/include/widgets/widget-social_icons.php:135
+msgid "Vimeo URI"
+msgstr ""
+
+#: C:\wamp\www\demo\wp-content\themes\single/include/widgets/widget-social_icons.php:142
+msgid "Pinterest URI"
+msgstr ""
+
+#: C:\wamp\www\demo\wp-content\themes\single/include/widgets/widget-social_icons.php:149
+msgid "Flickr URI"
+msgstr ""
+
+#: C:\wamp\www\demo\wp-content\themes\single/include/widgets/widget-social_icons.php:156
+msgid "Tumblr URI"
+msgstr ""
+
+#: C:\wamp\www\demo\wp-content\themes\single/include/widgets/widget-social_icons.php:163
+msgid "YouTube URI"
+msgstr ""
+
+#: C:\wamp\www\demo\wp-content\themes\single/include/widgets/widget-social_icons.php:174
+msgid "Displays select social icons."
+msgstr ""
+
+#: C:\wamp\www\demo\wp-content\themes\single/include/widgets/widget-social_icons.php:183
+msgid "ZP Social Icons"
+msgstr ""
+
+#: C:\wamp\www\demo\wp-content\themes\single/include/widgets/widget-social_icons.php:210
+msgid "Alignment"
+msgstr ""
+
+#: C:\wamp\www\demo\wp-content\themes\single/include/widgets/widget-social_icons.php:212
+msgid "Align Left"
+msgstr ""
+
+#: C:\wamp\www\demo\wp-content\themes\single/include/widgets/widget-social_icons.php:213
+msgid "Align Right"
+msgstr ""

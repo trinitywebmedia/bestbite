@@ -1,0 +1,111 @@
+body, .site-header { 
+
+
+	background-color: #171717!important;
+
+
+}
+
+
+
+
+
+input, select, textarea { 
+
+
+	background-color: #171717!important;
+
+
+    border: none !important;
+
+
+    box-shadow: none !important;
+
+
+	color: #fff !important;
+
+
+}
+
+
+
+
+
+.button:hover, input[type="button"]:hover, 
+
+
+input[type="reset"]:hover, input[type="submit"]:hover,
+
+
+#options li a:hover, 
+
+
+#options li a.selected  {background: #1ABFC1 !important; color: #fff!important; border: none !important;}
+
+
+
+
+
+
+
+
+h1, h2, h3, h4, h5, h6, .site-title a, .site-title a:hover, .genesis-nav-menu > .menu-item > a, .latest_blog h3 a { color: #fff!important}
+
+
+
+
+
+
+
+
+.latest_blog h3 a:hover { color: #1ABFC1!important;}
+
+
+
+
+
+
+
+
+.entry-meta, .metaItem,.entry-header .entry-meta{
+
+
+	border-top: 1px dotted rgba(255, 255, 255, 0.3)!important;
+
+
+	border-bottom: 1px dotted rgba(255, 255, 255, 0.3)!important;
+
+
+}
+
+
+.entry-meta .entry-comments:before, .entry-meta .entry-tags:before {
+
+
+	border-left: 1px dotted rgba(255, 255, 255, 0.3)!important;
+
+
+}
+
+
+.entry-author:after {
+
+
+	border-right: 1px dotted rgba(255, 255, 255, 0.3)!important;
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+

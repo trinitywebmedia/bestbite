@@ -1,0 +1,287 @@
+/* Responsive Design
+
+
+
+------------------------------------------------------------ */
+
+#mobile_menu {
+	display: none;
+}
+ @media only screen and (max-width: 1024px) {
+.site-header .wrap, .intro, .page-description, #home-wrap .wrap {
+	width: 100%;
+}
+nav .wrap {
+	width: auto;
+}
+.site-header {
+	padding: 0 10px;
+}
+.title-area {
+	width: auto;
+}
+.genesis-nav-menu {
+	width: auto;
+}
+#home-wrap .wrap, .footer-widgets .wrap {
+	padding: 0 20px;
+}
+#portfolio .wrap {
+	padding: 0;
+}
+.client_container img {
+	width: 213px;
+}
+.page_title_wrap {
+	padding: 0 20px;
+	width: 100%;
+}
+.entry {
+	padding: 4rem 2rem 2.4rem;
+}
+#comments, #respond {
+	padding: 2rem;
+}
+.content-sidebar .content {
+	width: 72.27%;
+}
+.sidebar-primary {
+	width: 27.73%;
+}
+.folio-entry {
+	width: 70%;
+}
+.list-items .metaItem {
+	width: 30%;
+}
+.site-footer .wrap {
+	width: 100%;
+}
+}
+ @media only screen and (max-width: 768px) {
+.slides li, div#portfolio, div#services, div#testimonial, div.footer-widgets {
+	background-attachment: scroll !important;
+}
+.caption_container {
+	width: 90%;
+}
+.flex-caption p {
+	font-size: 14pt;
+}
+.flex-caption h1 {
+	font-size: 60px;
+	margin-top: 120px;
+}
+.nav-primary {
+	display: none;
+	margin-bottom: 20px;
+	padding: 0 20px;
+}
+#mobile_menu {
+	cursor: pointer;
+	display: block;
+	overflow: hidden;
+	width: auto;
+	float: right;
+}
+.menu_title {
+	border: 1px solid #DDDDDD;
+	border-radius: 5px 5px 5px 5px;
+	-moz-border-radius: 5px 5px 5px 5px;
+	-webkit-border-radius: 5px 5px 5px 5px;
+	-o-border-radius: 5px 5px 5px 5px;
+	color: #333333;
+	float: right;
+	font-family: "ModernPictogramsNormal";
+	font-size: 42px;
+	line-height: 40px;
+	margin: 28px 20px;
+	padding: 2px 6px;
+}
+header.site-header {
+	position: relative !important;
+}
+.site-header {
+	max-height: none;
+}
+.client_container img {
+	width: 210px;
+}
+.bottom {
+	margin: 0 auto;
+	width: 50%;
+}
+.site-footer .creds {
+	text-align: center;
+	float: none;
+	margin-top: 20px;
+}
+}
+ @media only screen and (max-width: 600px) {
+#home_gallery, .flexslider .slides > li {
+	max-height: 500px !important;
+}
+.about-me .home_widget_area.home_widget_area p, .section1.intro > p {
+	width: 100%;
+}
+.flex-caption h1 {
+	font-size: 45px;
+}
+#options li a {
+	padding: 1rem 1.4rem !important;
+	display: block;
+}
+.latest_blog h3 a {
+	font-size: 1.6rem;
+}
+.latest_blog h3 {
+	line-height: 2rem;
+}
+.entry-title {
+	line-height: 1.3;
+}
+.client_container img {
+	width: 154px;
+}
+.content-sidebar .content {
+	width: 100%;
+}
+.sidebar-primary {
+	width: 100%;
+}
+#services .home_widget_area p {
+	width: 90%;
+}
+#testimonial .testimonial_container {
+	width: 100%;
+}
+.genesis-nav-menu {
+	width: auto;
+	margin-bottom: 30px;
+}
+.genesis-nav-menu a {
+	padding: 1rem 2rem;
+}
+.genesis-nav-menu .menu-item, .genesis-nav-menu .sub-menu, .genesis-nav-menu .sub-menu {
+	width: 100%;
+	border-bottom: 1px dotted #ccc;
+}
+.genesis-nav-menu .sub-menu .sub-menu {
+	margin: 0;
+}
+.intro > p, #about-me .home_widget_area p, #testimonial .home_widget_area p {
+	width: 90%;
+}
+.genesis-nav-menu .sub-menu {
+	background: none;
+	margin: 0;
+	float: left;
+	width: auto;
+	z-index: 9999;
+	left: 0;
+	position: relative;
+	padding: 0 20px;
+}
+.genesis-nav-menu .sub-menu a {
+	color: #343842 !important;
+	line-height: 16px;
+	padding: 15px;
+	width: 100%;
+}
+.flex-direction-nav {
+	display: block;
+}
+.element-4col .icon h4 a, .gallery-4col .icon h4 a {
+	font-size: 12px;
+}
+.element-3col .icon h4 a, .gallery-3col .icon h4 a {
+	font-size: 12px;
+}
+.folio-entry, .list-items .metaItem {
+	width: 100%;
+}
+.list-items .metaItem h1 {
+	font-size: 3rem;
+}
+.site-footer .creds {
+	line-height: 30px;
+}
+}
+ @media only screen and (max-width: 480px) {
+#home_gallery, .flexslider .slides > li {
+	max-height: 320px !important;
+}
+.flex-caption h1 {
+	font-size: 30px;
+	margin-top: 66px;
+	padding: 10px 0;
+}
+#home-wrap .widgettitle, .footer-widgets .widgettitle, .intro h1 {
+	margin: 0;
+}
+.flex-caption p {
+	font-size: 10pt;
+}
+.intro h1, #home-wrap .widgettitle {
+	font-size: 3.6rem;
+}
+.portfolio_image > img {
+	width: 100% !important;
+}
+div.full-width, div.one-half, .one-half,  div.one-third, .one-third,  div.two-third, .two-third,  div.one-fourth, .one-fourth,  div.three-fourth, .three-fourth {
+	width: 100% !important;
+	margin-bottom: 20px;
+}
+.element-3col .icon h4 a, .gallery-3col .icon h4 a {
+	font-size: 1.7rem;
+}
+.latest_blog_container img {
+	width: 100%;
+}
+.client_container img {
+	width: 194px;
+}
+.bottom {
+	margin: 0 auto;
+	width: 100%;
+}
+.genesis-nav-menu a {
+	padding: 1rem 2rem;
+}
+.cta_button {
+	margin: 0 0 30px;
+	text-align: center;
+	width: 100%;
+}
+.call_to_action_box h1, .call_to_action_box h2, .call_to_action_box h2 {
+	font-size: 3.5rem;
+	margin: 0 0 16px;
+}
+.folio-entry, .list-items .metaItem {
+	width: 100%;
+}
+.list-items .metaItem h1 {
+	font-size: 3rem;
+}
+.site-footer .creds {
+	float: left;
+	display: block;
+}
+}
+ @media only screen and (max-width: 320px) {
+.genesis-nav-menu a {
+	padding: 1rem 1.5rem;
+}
+.site-title {
+	font-size: 3rem;
+}
+.client_container img {
+	width: 254px;
+}
+.folio-entry, .list-items .metaItem {
+	width: 100%;
+}
+.list-items .metaItem h1 {
+	font-size: 3rem;
+}
+}
