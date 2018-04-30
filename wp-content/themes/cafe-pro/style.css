@@ -212,6 +212,8 @@ ul {
 
 li {
 	list-style-type: none;
+	display: inline;
+	margin-right: 24px;
 }
 
 b,
@@ -278,14 +280,20 @@ h1 {
 }
 
 h2 {
-	font-size: 30px;
-	font-size: 3rem;
+	font-size: 36px;
+	/* font-size: 3rem; */
+	margin-bottom: 30px;
+	color: #482b87;
+	text-align: center;
+	text-transform: uppercase;
 }
 
 h3 {
-	font-size: 24px;
-	font-size: 2.4rem;
+	font-size: 36px;
+	/* font-size: 2.4rem; */
+	margin-bottom: 30px;
 }
+
 
 h4 {
 	font-size: 20px;
@@ -822,9 +830,11 @@ th {
 }
 
 .entry-title {
-	font-size: 36px;
-	font-size: 3.6rem;
+	font-size: 50px;
+	/* font-size: 3.6rem; */
 	margin-bottom: 28px;
+	text-align: center;
+	color: #1e73be;
 }
 
 .entry .entry-title a,
@@ -854,6 +864,7 @@ th {
 
 .footer-widgets .widget-title {
 	color: #fff;
+	font-size: 28px;
 }
 
 /* WordPress
@@ -1094,6 +1105,7 @@ img.alignright,
 	font-size: 14px;
 	font-size: 1.4rem;
 	margin: 0;
+	background-color: #a6a6a6;
 }
 
 .genesis-skip-link li {
@@ -1618,8 +1630,7 @@ color: #1780f5;
 
 .menu {
 	font-family: 'Dosis', sans-serif;
-	font-size: 14px;
-	font-size: 1.4rem;
+	font-size: 18px;
 }
 
 /* Entries
@@ -1876,6 +1887,11 @@ li.comment.depth-1 {
 	margin-bottom: 10px;
 }
 
+.sidebar .widget .widget-title {
+	color: #1e73be;
+	font-size: 32px;
+}
+
 
 /* Footer Widgets
 ---------------------------------------------------------------------------------------------------- */
@@ -1899,7 +1915,8 @@ li.comment.depth-1 {
 }
 
 .footer-widgets a {
-	text-decoration: underline;
+	text-decoration: underlne;
+	font-size: 20px;
 }
 
 .footer-widgets input {
@@ -2096,6 +2113,10 @@ li.comment.depth-1 {
 
 	.site-inner {
 		padding-top: 20px;
+	}
+	
+	.front-page-4 {
+		display: none;
 	}
 
 	.archive-description,
